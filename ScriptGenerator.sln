@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptGenerator", "ScriptGenerator\ScriptGenerator.csproj", "{AEA6BCF2-1315-402C-A8DB-B894DDEDDDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA6BCF2-1315-402C-A8DB-B894DDEDDDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA6BCF2-1315-402C-A8DB-B894DDEDDDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA6BCF2-1315-402C-A8DB-B894DDEDDDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA6BCF2-1315-402C-A8DB-B894DDEDDDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {349B8893-B684-49C2-ADD8-28FCFDFA8DA6}
+	EndGlobalSection
+EndGlobal

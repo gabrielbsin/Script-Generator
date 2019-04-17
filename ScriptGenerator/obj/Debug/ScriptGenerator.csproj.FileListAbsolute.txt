@@ -1,0 +1,11 @@
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\bin\Debug\ScriptGenerator.exe.config
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\bin\Debug\ScriptGenerator.exe
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\bin\Debug\ScriptGenerator.pdb
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.csprojAssemblyReference.cache
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.Properties.Resources.resources
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.csproj.GenerateResource.cache
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.exe
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.pdb
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.frmMain.resources
+C:\Users\MechAviv\Desktop\Visual Studio Projects\ScriptGenerator\ScriptGenerator\ScriptGenerator\obj\Debug\ScriptGenerator.frmScript.resources
